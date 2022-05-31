@@ -1,0 +1,4 @@
+git branch --show-current
+
+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
+nbkr
