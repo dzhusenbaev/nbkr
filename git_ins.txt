@@ -6,3 +6,4 @@ nbkr
 
 
 sudo git config --global --add safe.directory /home/jusa/Desktop/git_test
+test
